@@ -7,7 +7,7 @@ Authors@R: c(person("Aaron", "Ferrucci", role = c("aut", "cre"),
 		     )
 Author: Aaron Ferrucci [aut, cre]
 Maintainer: Aaron.Ferrucci <aaron.ferrucci@gmail.com>
-Depends: R (>= 3.1.0), nlme
+Depends: R (>= 3.1.0), jsonlite, RCurl
 Suggests: ggplog2
 Description: Utility routines and race data for Santa Cruz's annual
   Wharf to Wharf foot race.
