@@ -1,0 +1,16 @@
+Package: WharfToWharfR
+Version: 0.1
+Date: 2016-06-11
+Title: Wharf to Wharf
+Authors@R: c(person("Aaron", "Ferrucci", role = c("aut", "cre"),
+		     email = "aaron.ferrucci@gmail.com"),
+		     )
+Author: Aaron Ferrucci [aut, cre]
+Maintainer: Aaron.Ferrucci <aaron.ferrucci@gmail.com>
+Depends: R (>= 3.1.0), nlme
+Suggests: ggplog2
+Description: Utility routines and race data for Santa Cruz's annual
+  Wharf to Wharf foot race.
+License: GPL-2
+URL: https://github.com/aaronferrucci/WharfToWharfR
+BugReports:https://github.com/aaronferrucci/WharfToWharfR/issues 
