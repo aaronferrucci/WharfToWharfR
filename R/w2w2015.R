@@ -8,8 +8,11 @@
 #'
 #' @usage data(w2w2015)
 #'
-#' @format An object of class \code{"datga.frame"}; see \code{\link[qtl]{read.cross}}.
-#'
+#' @format A data frame with fifteen variables: 
+#'   \code{firstname}, \code{lastname}, \code{bib}, \code{city}, \code{state},
+#'   \code{country}, \code{age}, \code{sex}, \code{overall}, \code{oversex},
+#'   \code{overdiv}, \code{elapsed}, \code{elapsedTime}, \code{start},
+#'   \code{startTime}
 #' @keywords datasets
 #'
 #' @references 
