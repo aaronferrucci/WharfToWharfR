@@ -3,8 +3,8 @@ Version: 0.1
 Date: 2016-06-11
 Title: Wharf to Wharf
 Authors@R: c(person("Aaron", "Ferrucci", role = c("aut", "cre"),
-		     email = "aaron.ferrucci@gmail.com"),
-		     )
+		     email = "aaron.ferrucci@gmail.com")
+            )
 Author: Aaron Ferrucci [aut, cre]
 Maintainer: Aaron.Ferrucci <aaron.ferrucci@gmail.com>
 Depends:
