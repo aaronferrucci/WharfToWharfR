@@ -13,6 +13,7 @@ Suggests:
     ggplot2
 Description: Utility routines and race data for Santa Cruz's annual
     Wharf to Wharf foot race.
+LazyData: true
 License: GPL-2
 URL: https://github.com/aaronferrucci/WharfToWharfR
 BugReports: https://github.com/aaronferrucci/WharfToWharfR/issues
